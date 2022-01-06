@@ -17,5 +17,9 @@ function janken(choice) {
             break;
     }
 
+    let PCsChoiceElemennt = document.getElementById("PCsChoice");
+    
+
+
     resultElement.innerHTML = "かち";
 }
